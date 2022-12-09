@@ -14,3 +14,4 @@ for (let i = 1; i <= 3; i++) {
     break;
   }
 }
+if (notMatched) alert("You lose!!!");
